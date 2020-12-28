@@ -40,4 +40,4 @@
 	-Projeyi Geliştirenler
 
 Abdullah Yaşar KISA--	
-İbrahim Kapkaslı--
+İbrahim KAFKASLI--
